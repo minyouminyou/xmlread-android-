@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sangpums>
+    <sangpum>
+        <code>10</code>
+        <sang>오렌지</sang>
+        <price>1200</price>
+    </sangpum>
+    <sangpum>
+        <code>11</code>
+        <sang>자몽</sang>
+        <price>2200</price>
+    </sangpum>
+    <sangpum>
+        <code>12</code>
+        <sang>길라임</sang>
+        <price>1300</price>
+    </sangpum>
+
+
+</sangpums>
